@@ -1,0 +1,203 @@
+{
+  "articles": [
+    {
+      "article_id": "d0159aff-1201-53a0-94b1-95ccc64d9469",
+      "title": "Return policy",
+      "body": "Unused items in original condition can be returned within 60 days of delivery for a full refund. Used gear can be returned within 30 days if it has a defect. Clearance items and opened fuel canisters are final sale.",
+      "questions": [
+        "What is your return policy?",
+        "Can I return something I bought?",
+        "How many days do I have to return an item?",
+        "Can I return gear I already used?",
+        "Are clearance items returnable?",
+        "How long do I have to send something back?",
+        "Can I return an item I never opened?"
+      ]
+    },
+    {
+      "article_id": "078aeaf7-7e42-5732-861a-c6fdf42eeddd",
+      "title": "How to start a return",
+      "body": "To start a return, open the Orders page, choose the order, and select Return Items. Print the prepaid shipping label and drop the package at any carrier location, or bring the item to any Timberwick Outfitters store.",
+      "questions": [
+        "How do I start a return?",
+        "How do I send an item back?",
+        "Where do I get a return label?",
+        "Can I return an online order in a store?",
+        "What are the steps to return something?"
+      ]
+    },
+    {
+      "article_id": "6efda4fd-2568-5404-bb5a-7682a422bc2e",
+      "title": "Refund timing",
+      "body": "Refunds go back to your original payment method within 5 to 7 business days after we receive and inspect your return. You will get an email when the refund is issued.",
+      "questions": [
+        "When will I get my refund?",
+        "How long do refunds take?",
+        "I returned an item, where is my money?",
+        "How will I be refunded?",
+        "When does the refund show up on my card?"
+      ]
+    },
+    {
+      "article_id": "e9327ee9-cbf8-5b51-b6e8-c88fd7a58cc2",
+      "title": "Tracking an order",
+      "body": "Every shipped order gets a tracking number by email. You can also see tracking on the Orders page. Tracking can take up to 24 hours to update after the label is created.",
+      "questions": [
+        "Where is my order?",
+        "How do I track my package?",
+        "Can I get a tracking number?",
+        "My tracking has not updated",
+        "Has my order shipped yet?",
+        "Where is my package right now?",
+        "When will my order arrive?"
+      ]
+    },
+    {
+      "article_id": "939c55ea-544f-5880-98b3-a898f67f5ead",
+      "title": "Shipping options and costs",
+      "body": "Standard shipping takes 3 to 5 business days and is free on orders over $75. Expedited shipping takes 2 business days for $12. Overnight shipping is $25 and must be ordered before 1 PM Eastern.",
+      "questions": [
+        "How much is shipping?",
+        "Do you offer free shipping?",
+        "How long does shipping take?",
+        "Can I get overnight delivery?",
+        "What shipping options are there?"
+      ]
+    },
+    {
+      "article_id": "d5d37458-cdef-5879-894b-d229a5e5627e",
+      "title": "Changing or canceling an order",
+      "body": "Orders can be changed or canceled within 1 hour of being placed from the Orders page. After that, the order is sent to our warehouse and cannot be changed, but you can return it after delivery.",
+      "questions": [
+        "How do I cancel my order?",
+        "Can I change my order?",
+        "I ordered the wrong size, can I fix my order?",
+        "Can I add an item to my order?",
+        "Can I change the shipping address on my order?"
+      ]
+    },
+    {
+      "article_id": "3c2cf5bd-cebb-575a-9824-5ac0339e72ab",
+      "title": "Tent and shelter warranty",
+      "body": "Timberwick tents and shelters have a 2-year warranty against defects in materials and workmanship, including broken poles, failed seams, and broken zippers. Damage from wear, fire, or animals is not covered. Send a photo of the problem with your order number to start a warranty claim.",
+      "questions": [
+        "What is the warranty on tents?",
+        "My tent pole broke, is it covered?",
+        "The zipper on my tent is broken",
+        "How do I make a warranty claim on my tent?",
+        "Is my tent seam leaking covered under warranty?"
+      ]
+    },
+    {
+      "article_id": "c1db73fe-64e6-5186-a57d-d42b5b009dd9",
+      "title": "Choosing a sleeping bag temperature rating",
+      "body": "Sleeping bag ratings list a comfort temperature and a lower limit. Pick a bag whose comfort rating is at least 10 degrees colder than the coldest night you expect. Down bags pack smaller, while synthetic bags stay warmer when wet.",
+      "questions": [
+        "What sleeping bag temperature rating do I need?",
+        "How do I pick a sleeping bag?",
+        "What does the comfort rating on a sleeping bag mean?",
+        "Should I get a down or synthetic sleeping bag?",
+        "Which sleeping bag is warm enough?"
+      ]
+    },
+    {
+      "article_id": "152beb45-6a66-57ef-93ce-3c386685117c",
+      "title": "Backpack sizing",
+      "body": "Backpacks are sized by torso length, not height. Measure from the bony bump at the base of your neck to the top of your hip bones. Small fits 15 to 17 inches, medium fits 17 to 19 inches, and large fits 19 to 21 inches.",
+      "questions": [
+        "What size backpack do I need?",
+        "How do I measure my torso for a pack?",
+        "How should a hiking backpack fit?",
+        "Which backpack size is right for me?",
+        "How are packs sized?"
+      ]
+    },
+    {
+      "article_id": "897a4450-d877-5b1f-b3ab-d5efbbb422bd",
+      "title": "Hiking boot sizing and break-in",
+      "body": "Try boots on in the afternoon with the socks you plan to hike in. Leave about a finger's width of space at the toe. Break in new boots on short walks for one to two weeks before a long trip.",
+      "questions": [
+        "What size hiking boots should I buy?",
+        "How should hiking boots fit?",
+        "How do I break in new boots?",
+        "Do hiking boots run small?",
+        "My new boots give me blisters"
+      ]
+    },
+    {
+      "article_id": "1b0d2d0b-58bb-539a-8055-7a330a5c2114",
+      "title": "Gear rental program",
+      "body": "Tents, sleeping bags, backpacks, and stoves can be rented by the weekend or by the week at participating stores. Reserve online at least 3 days ahead. A refundable deposit is charged at pickup.",
+      "questions": [
+        "Can I rent camping gear?",
+        "Do you rent tents?",
+        "How does gear rental work?",
+        "How much does it cost to rent a backpack?",
+        "Can I reserve rental equipment?"
+      ]
+    },
+    {
+      "article_id": "77bf2056-6fc7-5229-8b8a-ce580f5f7c4e",
+      "title": "Store hours and locations",
+      "body": "Most Timberwick Outfitters stores are open 9 AM to 9 PM Monday through Saturday and 10 AM to 6 PM on Sunday. Use the Store Locator page to find hours and directions for a specific store.",
+      "questions": [
+        "What are your store hours?",
+        "When are you open?",
+        "Where is the nearest store?",
+        "Are you open on Sunday?",
+        "How do I find a store near me?"
+      ]
+    },
+    {
+      "article_id": "56c491e6-961e-5bb6-b6d4-ae19ebfaf745",
+      "title": "Price match policy",
+      "body": "We match the price of an identical in-stock item from a major outdoor retailer within 14 days of your purchase. Contact us with a link to the lower price. Auction sites, clearance sales, and coupons are not eligible.",
+      "questions": [
+        "Do you price match?",
+        "I found it cheaper somewhere else",
+        "Can you match a lower price?",
+        "The price dropped after I bought it",
+        "What is your price match policy?",
+        "Another store sells this for less"
+      ]
+    },
+    {
+      "article_id": "427ff997-4a37-56ec-97f0-4d2ebdd1e4e8",
+      "title": "Damaged or missing items",
+      "body": "If an item arrives damaged or a piece is missing, report it from the Orders page within 7 days of delivery and include a photo. We will ship a replacement at no cost or issue a refund.",
+      "questions": [
+        "My order arrived damaged",
+        "A part is missing from my order",
+        "I received the wrong item",
+        "The box was broken when it arrived",
+        "Something is missing from my package"
+      ]
+    },
+    {
+      "article_id": "11227910-e038-52f5-9e8e-0c3b64a851bf",
+      "title": "Trailhead Rewards membership",
+      "body": "Trailhead Rewards is free to join. Members earn 1 point per dollar spent, and every 100 points becomes a $5 reward. Members also get early access to sales and free standard shipping on every order.",
+      "questions": [
+        "How does the rewards program work?",
+        "How do I earn points?",
+        "Is the membership free?",
+        "What do I get as a rewards member?",
+        "How do I use my reward points?"
+      ]
+    },
+    {
+      "article_id": "9b866f46-22d2-5c76-8ebb-bae899e10472",
+      "title": "Shipping restrictions for stove fuel",
+      "body": "Stove fuel canisters and other hazardous materials can only ship by ground to addresses in the lower 48 states. They cannot ship by air, to PO boxes, or internationally. You can also buy fuel in any store.",
+      "questions": [
+        "Can you ship fuel canisters?",
+        "Why can't I get expedited shipping on stove fuel?",
+        "Do you ship propane to Alaska?",
+        "Can fuel ship to a PO box?",
+        "Why is my camp stove fuel ground shipping only?",
+        "Can I order butane or propane canisters online?",
+        "Can fuel be shipped by air or overnight?"
+      ]
+    }
+  ]
+}
